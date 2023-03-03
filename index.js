@@ -73,7 +73,7 @@ function prompts() {
         case "ADD_ROLE":
           addRole();
             break;        
-        case "VIEW_All_DEPARTMENTS":
+        case "VIEW_ALL_DEPARTMENTS":
           viewAllDepartments();
           break;
         case "ADD_DEPARTMENT":
